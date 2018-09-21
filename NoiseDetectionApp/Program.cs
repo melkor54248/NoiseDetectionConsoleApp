@@ -48,7 +48,7 @@ namespace NoiseDetectionApp
             //{
             //    Console.WriteLine(e.Message);
             //}
-            Console.WriteLine("NoiseDetection is up and running. Press any key to exit.");
+            Console.WriteLine("NoiseDetection is up and running! Press any key to exit.");
             Console.ReadLine();
         }
 
