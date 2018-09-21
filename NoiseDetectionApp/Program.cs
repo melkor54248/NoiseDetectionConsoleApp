@@ -15,7 +15,7 @@ namespace NoiseDetectionApp
         static int interval = 5000;
         static HttpClient client = new HttpClient();
         private static int fastSamplingCount =0;
-
+//dummy commit to triger CI 
         static void Main(string[] args)
         {
 
